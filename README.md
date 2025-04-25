@@ -40,6 +40,7 @@ javascript:(function(){const l=[...document.head.querySelectorAll('link[rel="sty
 
 ## 注意事項
 
+- 僅限 AT 專案使用
 - 此工具僅支援特定格式的 CSS 樣式表路徑（包含 `/_s/` 的路徑）
 - 需要允許瀏覽器執行 JavaScript
 - 某些網站可能會因為內容安全策略（CSP）而限制書籤小工具的執行
